@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="ProgressButton" />
+
+    <!-- Base theme for the Progress button. -->
+    <style name="ProgressButton.attrs">
+        <item name="android:clickable">false</item>
+        <item name="android:focusable">false</item>
+        <item name="pb_textSize">16sp</item>
+        <item name="pb_textColor">@color/black_color</item>
+    </style>
+
+</resources>
